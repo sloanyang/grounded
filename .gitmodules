@@ -7,3 +7,6 @@
 [submodule "android_device_zte_u950"]
 	path = android_device_zte_u950
 	url = https://github.com/sloanyang/android_device_zte_u950.git
+[submodule "android_kernel_huawei_mediapad10fhd"]
+	path = android_kernel_huawei_mediapad10fhd
+	url = https://github.com/sloanyang/android_kernel_huawei_mediapad10fhd.git
