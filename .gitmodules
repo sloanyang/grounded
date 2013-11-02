@@ -10,3 +10,9 @@
 [submodule "android_kernel_huawei_mediapad10fhd"]
 	path = android_kernel_huawei_mediapad10fhd
 	url = https://github.com/sloanyang/android_kernel_huawei_mediapad10fhd.git
+[submodule "android_external_bluetooth_bluez"]
+	path = android_external_bluetooth_bluez
+	url = https://github.com/sloanyang/android_external_bluetooth_bluez.git
+[submodule "android_external_webkit"]
+	path = android_external_webkit
+	url = https://github.com/sloanyang/android_external_webkit.git
