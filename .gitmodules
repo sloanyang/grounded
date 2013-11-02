@@ -1,3 +1,6 @@
 [submodule "mkos"]
 	path = mkos
 	url = https://github.com/sloanyang/mkos.git
+[submodule "android_kernel_zte_u950"]
+	path = android_kernel_zte_u950
+	url = https://github.com/sloanyang/android_kernel_zte_u950.git
