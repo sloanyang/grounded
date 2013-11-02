@@ -4,3 +4,6 @@
 [submodule "android_kernel_zte_u950"]
 	path = android_kernel_zte_u950
 	url = https://github.com/sloanyang/android_kernel_zte_u950.git
+[submodule "android_device_zte_u950"]
+	path = android_device_zte_u950
+	url = https://github.com/sloanyang/android_device_zte_u950.git
